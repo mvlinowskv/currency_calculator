@@ -1,0 +1,24 @@
+/** {
+    
+}
+
+.container-left {
+    float:left;
+    clear: both;
+    width: 50%;
+}
+.container-right {
+    float:right;
+    clear: both;
+    width: 50%;
+    background-color: gray;
+}
+
+.waluty {
+  
+    
+}
+
+.form-money {
+    width: 150px;
+}
